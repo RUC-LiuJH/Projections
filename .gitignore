@@ -136,4 +136,12 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Local ignore
 /.gitee
+/Sources
+/.idea
+/.vscode
+/Campus
+/Intern
+/Others
