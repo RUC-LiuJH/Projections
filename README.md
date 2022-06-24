@@ -1,58 +1,27 @@
-# Projections
+# Projects
 
-## ½éÉÜ
+## ä»‹ç»
 
-±£´æËùÓÐÑ§Ï°µ½µÄÏîÄ¿´úÂëºÍÏà¹Ø×ÊÁÏ¡£
+è¯¥ä»“åº“ç”¨äºŽä¿å­˜æœ¬äººåœ¨å­¦ä¹ å’Œå·¥ä½œè¿‡ç¨‹ä¸­æ‰€ä½¿ç”¨è¿‡çš„ç›¸å…³é¡¹ç›®ä»£ç å’Œå­¦ä¹ èµ„æ–™ï¼Œæ–¹ä¾¿å¿«é€Ÿè¿½æº¯æŸäº›æ¨¡å—ã€åŠŸèƒ½ã€æ¨¡åž‹çš„æ­å»ºæ–¹æ³•ã€‚
 
-## Èí¼þ¼Ü¹¹
+## æ•´ä½“åˆ†ç±»
 
-### CV
+### æœºå™¨å­¦ä¹ 
 
-¼ÆËã»úÊÓ¾õÏà¹ØÏîÄ¿´úÂë¼°×ÊÁÏ
+ä¿å­˜ä¸Žæœºå™¨å­¦ä¹ ç›¸å…³çš„èµ„æ–™ï¼Œå¦‚RFã€SVMã€KNNã€GBDTç­‰ã€‚
 
-### GNN
+### æ·±åº¦å­¦ä¹ 
 
-Í¼Éñ¾­ÍøÂçÏà¹ØÏîÄ¿´úÂë¼°×ÊÁÏ
+è®°å½•å„ç±»ç¥žç»ç½‘ç»œæ¨¡åž‹çš„ç›¸å…³èµ„æ–™ï¼Œä»¥åŠä¸åŒåº”ç”¨ä¸Šçš„é¡¹ç›®èµ„æ–™ï¼Œå¦‚æŽ¨èç³»ç»Ÿã€NLPã€CVã€çŸ¥è¯†å›¾è°±ã€å›¾ç¥žç»ç½‘ç»œç­‰ã€‚
 
-### Hadoop
+### æ•°æ®åº“
 
-HadoopÏà¹ØÏîÄ¿´úÂë¼°×ÊÁÏ
+è®°å½•æ•°æ®åº“ç›¸å…³çš„èµ„æ–™ï¼Œå¦‚MySQLã€Hadoopã€Hiveç­‰ã€‚
+
+### åˆ†å¸ƒå¼è®¡ç®—
+
+è®¡ç®—å¤§æ•°æ®åŠåˆ†å¸ƒå¼è®¡ç®—ç›¸å…³çš„èµ„æ–™ï¼Œå¦‚Spark
 
 ### Java
 
-JavaÏà¹ØÏîÄ¿´úÂë¼°×ÊÁÏ
-
-### ML
-
-»úÆ÷Ñ§Ï°Ïà¹ØÏîÄ¿´úÂë¼°×ÊÁÏ
-
-### NLP
-
-×ÔÈ»ÓïÑÔ´¦ÀíÏà¹ØÏîÄ¿´úÂë¼°×ÊÁÏ
-
-### Recommendation
-
-ÍÆ¼öËã·¨Ïà¹ØÏîÄ¿´úÂë¼°×ÊÁÏ
-
-### Spark
-
-SparkÏà¹ØÏîÄ¿´úÂë¼°×ÊÁÏ
-
-### SQL
-
-Êý¾Ý¿âÏà¹ØÏîÄ¿´úÂë¼°×ÊÁÏ
-
-## ²ÎÓë¹±Ï×
-
-1.  Fork ±¾²Ö¿â
-2.  ÐÂ½¨ Feat_xxx ·ÖÖ§
-3.  Ìá½»´úÂë
-4.  ÐÂ½¨ Pull Request
-
-## ÌØ¼¼
-
-1.  Ê¹ÓÃ Readme\_XXX.md À´Ö§³Ö²»Í¬µÄÓïÑÔ£¬ÀýÈç Readme\_en.md, Readme\_zh.md
-2.  Gitee ¹Ù·½²©¿Í [blog.gitee.com](https://blog.gitee.com)
-3.  Äã¿ÉÒÔ [https://gitee.com/explore](https://gitee.com/explore) Õâ¸öµØÖ·À´ÁË½â Gitee ÉÏµÄÓÅÐã¿ªÔ´ÏîÄ¿
-4.  [GVP](https://gitee.com/gvp) È«³ÆÊÇ Gitee ×îÓÐ¼ÛÖµ¿ªÔ´ÏîÄ¿£¬ÊÇ×ÛºÏÆÀ¶¨³öµÄÓÅÐã¿ªÔ´ÏîÄ¿
-5.  Gitee ¹Ù·½Ìá¹©µÄÊ¹ÓÃÊÖ²á [https://gitee.com/help](https://gitee.com/help)
+è®°å½•Javaç›¸å…³çš„é¡¹ç›®å’Œå­¦ä¹ èµ„æ–™ã€‚
